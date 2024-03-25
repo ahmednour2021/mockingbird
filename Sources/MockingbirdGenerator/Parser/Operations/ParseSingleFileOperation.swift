@@ -1,4 +1,5 @@
 import Foundation
+import SwiftSyntaxParser
 import MockingbirdCommon
 import PathKit
 import SourceKittenFramework
